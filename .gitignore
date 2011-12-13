@@ -1,0 +1,6 @@
+*.o
+*.dylib
+*.so
+Benchmark-OpenCL
+Benchmark-OpenSSL
+
